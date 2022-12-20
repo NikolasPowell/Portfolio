@@ -2,11 +2,14 @@ html {
     background-color: whitesmoke;
 }
 
-.NameHeader{
-    margin: 0px;
-    text-align: left;
+.Container1{
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.BackgroundImage{
-    background-image: url(backgroundimage.PNG);
+.NameHeader{
+    position: absolute;
+    top: 5px;
+    left: 10px;
 }
