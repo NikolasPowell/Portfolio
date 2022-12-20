@@ -6,3 +6,7 @@ html {
     margin: 0px;
     text-align: left;
 }
+
+.BackgroundImage{
+    background-image: url(backgroundimage.PNG);
+}
