@@ -2,6 +2,8 @@ html {
     background-color: whitesmoke;
     background-image: url(backgroundimage.PNG);
     width: 100%;
+
+    @media (min: width 801px);
 }
 
 .Container1{
@@ -12,7 +14,7 @@ html {
 
 .NameHeader{
     position: absolute;
-    top: 30px;
-    left: 35px;
-    font-size: 24px;
+    top: 50px;
+    left: 120px;
+    font-size: 30px;
 }
